@@ -21,8 +21,6 @@ Does chocolate candy contain more sugar than candy that is not chocolate? Is it 
 
 ![confusion matrix](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/confusion%20matrix.PNG)
 
-![ROC_curve](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/roc_curve.PNG)
-
 ## Lmitations of the project
 The data set does not have a large number of observations. More accurate results could be achieved with a larger sample.
 
