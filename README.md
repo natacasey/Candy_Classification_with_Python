@@ -1,4 +1,3 @@
-# Candy Classification with Python
 ![candy](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/candy.png)
 
 ## Project description
@@ -7,7 +6,8 @@ The performance of the Logistic Regression and Random Forest Classifier models w
 
 ## Development
 
-Programming language - Python 3.7. OS - Windows 10 Home.
+- Programming language - Python 3.7. 
+- OS - Windows 10 Home.
 
 ## Additional questions asked of the data:
 Is the candy with nuts more likely to be chocolate candy? Or maybe it is more likely to be chocolate if it has caramel in it, nougat, or wafers?
@@ -15,7 +15,6 @@ Does chocolate candy contain more sugar than candy that is not chocolate? Is it 
 
 ![coordinates](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/parallel_coordinates.PNG)
 
-![bar](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/popularity.PNG)
 
 ## The results of the best performing model. 
 
