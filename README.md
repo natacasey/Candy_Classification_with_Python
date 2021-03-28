@@ -1,8 +1,11 @@
 ![candy](https://github.com/natacasey/Candy_Classification_with_Python/blob/master/_assets/candy.png)
 
-## Project description
+## Project description and Data
 The goal of the project is to predict if candy is chocolate or not based on the features included in the Halloween candy data set downloaded from [Kaggle](https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking). 
 The performance of the Logistic Regression and Random Forest Classifier models with tuned hyperparanmeters and feature selection was analyzed to select a final model.
+
+## Documentation
+All of the documentation can be found in the docs folder.
 
 ## Development
 
